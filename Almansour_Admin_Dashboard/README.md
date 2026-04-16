@@ -49,31 +49,31 @@ Below you will find visual demonstrations of the core features.
 
 ### 🏠 Main Dashboard & Platform Setup
 
-| Feature                   | View 1                                                     | View 2                                                     |
-| :------------------------ | :--------------------------------------------------------- | :--------------------------------------------------------- |
-| **Sliders Management**    | <img src="assets/screen_shots/slider1.png" width="400"/>   | <img src="assets/screen_shots/slider2.png" width="400"/>   |
-| **Categories Management** | <img src="assets/screen_shots/category1.png" width="400"/> | <img src="assets/screen_shots/category2.png" width="400"/> |
+| Feature                   | View 1                                                                        | View 2                                                                        |
+| :------------------------ | :---------------------------------------------------------------------------- | :---------------------------------------------------------------------------- |
+| **Sliders Management**    | <img src="Almansour_Admin_Dashboard/screen_shots/slider1.png" width="400"/>   | <img src="Almansour_Admin_Dashboard/screen_shots/slider2.png" width="400"/>   |
+| **Categories Management** | <img src="Almansour_Admin_Dashboard/screen_shots/category1.png" width="400"/> | <img src="Almansour_Admin_Dashboard/screen_shots/category2.png" width="400"/> |
 
 ---
 
 ### 🛍️ Product & Stationery Management
 
-| Feature                       | View 1                                                    | View 2                                                    |
-| :---------------------------- | :-------------------------------------------------------- | :-------------------------------------------------------- |
-| **Product List & Table**      | <img src="assets/screen_shots/product1.png" width="400"/> | <img src="assets/screen_shots/product2.png" width="400"/> |
-| **Complex Variant Generator** | <img src="assets/screen_shots/product3.png" width="400"/> | <img src="assets/screen_shots/product4.png" width="400"/> |
+| Feature                       | View 1                                                                       | View 2                                                                       |
+| :---------------------------- | :--------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
+| **Product List & Table**      | <img src="Almansour_Admin_Dashboard/screen_shots/product1.png" width="400"/> | <img src="Almansour_Admin_Dashboard/screen_shots/product2.png" width="400"/> |
+| **Complex Variant Generator** | <img src="Almansour_Admin_Dashboard/screen_shots/product3.png" width="400"/> | <img src="Almansour_Admin_Dashboard/screen_shots/product4.png" width="400"/> |
 
 ---
 
 ### 📚 Educational Content
 
-| Feature                 | View 1                                                    | View 2                                                    |
-| :---------------------- | :-------------------------------------------------------- | :-------------------------------------------------------- |
-| **Courses**             | <img src="assets/screen_shots/courses1.png" width="400"/> | <img src="assets/screen_shots/courses2.png" width="400"/> |
-| **Classes**             | <img src="assets/screen_shots/classes1.png" width="400"/> | <img src="assets/screen_shots/classes2.png" width="400"/> |
-| **Teacher Management**  | <img src="assets/screen_shots/teacher1.png" width="400"/> | <img src="assets/screen_shots/teacher2.png" width="400"/> |
-| **Notes & Materials**   | <img src="assets/screen_shots/notes1.png" width="400"/>   | <img src="assets/screen_shots/notes2.png" width="400"/>   |
-| **Subjects & Students** | <img src="assets/screen_shots/subjects.png" width="400"/> | <img src="assets/screen_shots/students.png" width="400"/> |
+| Feature                 | View 1                                                                       | View 2                                                                       |
+| :---------------------- | :--------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
+| **Courses**             | <img src="Almansour_Admin_Dashboard/screen_shots/courses1.png" width="400"/> | <img src="Almansour_Admin_Dashboard/screen_shots/courses2.png" width="400"/> |
+| **Classes**             | <img src="Almansour_Admin_Dashboard/screen_shots/classes1.png" width="400"/> | <img src="Almansour_Admin_Dashboard/screen_shots/classes2.png" width="400"/> |
+| **Teacher Management**  | <img src="Almansour_Admin_Dashboard/screen_shots/teacher1.png" width="400"/> | <img src="Almansour_Admin_Dashboard/screen_shots/teacher2.png" width="400"/> |
+| **Notes & Materials**   | <img src="Almansour_Admin_Dashboard/screen_shots/notes1.png" width="400"/>   | <img src="Almansour_Admin_Dashboard/screen_shots/notes2.png" width="400"/>   |
+| **Subjects & Students** | <img src="Almansour_Admin_Dashboard/screen_shots/subjects.png" width="400"/> | <img src="Almansour_Admin_Dashboard/screen_shots/students.png" width="400"/> |
 
 ---
 
