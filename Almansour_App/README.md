@@ -51,7 +51,7 @@ _(Note: Replace the placeholder image links with actual screenshots or GIFs when
 
 A dynamic, localized entry point highlighting active banners, quick product categories, and immediate access to core flows.
 <br>
-<img src="Almansour_App/screen_shots/home.png" width="300">
+<img src="screen_shots/home.png" width="300">
 
 ### 2. Comprehensive E-Commerce (Cart, Orders, Products)
 
@@ -59,9 +59,9 @@ Users can filter products natively, manage their local cart, add favorites, and 
 <br>
 
 <p float="left">
-  <img src="Almansour_App/screen_shots/product.png" width="250">
-  <img src="Almansour_App/screen_shots/product_details1.png" width="250">
-  <img src="Almansour_App/screen_shots/cart.png" width="250">
+  <img src="screen_shots/product.png" width="250">
+  <img src="screen_shots/product_details1.png" width="250">
+  <img src="screen_shots/cart.png" width="250">
 </p>
 
 ### 3. Online Booking & Subject Notes
@@ -70,9 +70,9 @@ A dedicated educational space featuring interactive bottom-sheet filters with re
 <br>
 
 <p float="left">
-  <img src="Almansour_App/screen_shots/courses.png" width="250">
-  <img src="Almansour_App/screen_shots/notes.png" width="250">
-  <img src="Almansour_App/screen_shots/classes.png" width="250">
+  <img src="screen_shots/courses.png" width="250">
+  <img src="screen_shots/notes.png" width="250">
+  <img src="screen_shots/classes.png" width="250">
 </p>
 
 ### 4. Interactive Gamification (Competitions)
@@ -81,8 +81,8 @@ A specialized Wheel of Fortune module communicating with the backend to sync liv
 <br>
 
 <p float="left">
-  <img src="Almansour_App/screen_shots/wheel1.png" width="250">
-  <img src="Almansour_App/screen_shots/wheel2.png" width="250">
+  <img src="screen_shots/wheel1.png" width="250">
+  <img src="screen_shots/wheel2.png" width="250">
 </p>
 
 ### 5. Real-Time Chat (Socket.io)
@@ -97,8 +97,8 @@ Dynamic spatial polling allowing users to manually pinpoint delivery coordinates
 <br>
 
 <p float="left">
-  <img src="Almansour_App/screen_shots/address1.png" width="250">
-  <img src="Almansour_App/screen_shots/address_with_google_map.png" width="250">
+  <img src="screen_shots/address1.png" width="250">
+  <img src="screen_shots/address_with_google_map.png" width="250">
 </p>
 
 ### 7. Authentication & Profile Management
@@ -107,9 +107,9 @@ Full JWT-capable authorization flow covering OTP inputs, password recovery, and 
 <br>
 
 <p float="left">
-  <img src="Almansour_App/screen_shots/login.png" width="250">
-  <img src="Almansour_App/screen_shots/otp.png" width="250">
-  <img src="Almansour_App/screen_shots/main_profile.png" width="250">
+  <img src="screen_shots/login.png" width="250">
+  <img src="screen_shots/otp.png" width="250">
+  <img src="screen_shots/main_profile.png" width="250">
 </p>
 
 ---
