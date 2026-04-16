@@ -1,6 +1,6 @@
 # Al-Mansour Application 📱🎓
 
-🚀 **[Download APK Here](https://github.com/AhmedNasser24/My_Projects_Portofolio/tree/main/Almansour_App)**
+🚀 **[Download APK Here](https://github.com/AhmedNasser24/My_Projects_Portofolio/releases/latest/download/almansour_app.apk)**
 
 Welcome to the **Al-Mansour App** repository! This project is a comprehensive cross-platform mobile application tailored for educational services, course bookings, and integrated e-commerce. Built with scalability and maintainability in mind, it leverages industry-standard architectures and modern Flutter technologies.
 
