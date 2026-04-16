@@ -51,11 +51,11 @@ Below you will find visual demonstrations of the core features.
 
 ### 🏠 Main Dashboard & Platform Setup
 
-| Feature                   | View 1                                              | View 2                                              |
-| :------------------------ | :-------------------------------------------------- | :-------------------------------------------------- |
+| Feature                   | View 1                                              | View 2                                                 |
+| :------------------------ | :-------------------------------------------------- | :----------------------------------------------------- |
 | **Home & Notifications**  | <img src="screen_shots/home.png" width="400"/>      | <img src="screen_shots/notification.png" width="400"/> |
-| **Sliders Management**    | <img src="screen_shots/slider1.png" width="400"/>   | <img src="screen_shots/slider2.png" width="400"/>   |
-| **Categories Management** | <img src="screen_shots/category1.png" width="400"/> | <img src="screen_shots/category2.png" width="400"/> |
+| **Sliders Management**    | <img src="screen_shots/slider1.png" width="400"/>   | <img src="screen_shots/slider2.png" width="400"/>      |
+| **Categories Management** | <img src="screen_shots/category1.png" width="400"/> | <img src="screen_shots/category2.png" width="400"/>    |
 
 ---
 
@@ -83,9 +83,9 @@ Below you will find visual demonstrations of the core features.
 
 ### 💬 Communication & Support
 
-| Feature                 | View 1                                            | View 2                                            |
-| :---------------------- | :------------------------------------------------ | :------------------------------------------------ |
-| **Chat & Contact Us**   | <img src="screen_shots/chat.png" width="400"/>    | <img src="screen_shots/contact.png" width="400"/> |
+| Feature               | View 1                                         | View 2                                            |
+| :-------------------- | :--------------------------------------------- | :------------------------------------------------ |
+| **Chat & Contact Us** | <img src="screen_shots/chat.png" width="400"/> | <img src="screen_shots/contact.png" width="400"/> |
 
 ---
 

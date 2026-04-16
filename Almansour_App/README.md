@@ -1,5 +1,7 @@
 # Al-Mansour Application 📱🎓
 
+🚀 **[Download APK Here](https://github.com/AhmedNasser24/My_Projects_Portofolio/tree/main/Almansour_App)**
+
 Welcome to the **Al-Mansour App** repository! This project is a comprehensive cross-platform mobile application tailored for educational services, course bookings, and integrated e-commerce. Built with scalability and maintainability in mind, it leverages industry-standard architectures and modern Flutter technologies.
 
 ---
@@ -59,9 +61,20 @@ Users can filter products natively, manage their local cart, add favorites, and 
 <br>
 
 <p float="left">
-  <img src="screen_shots/product.png" width="250">
-  <img src="screen_shots/product_details1.png" width="250">
-  <img src="screen_shots/cart.png" width="250">
+  <img src="screen_shots/product.png" width="200">
+  <img src="screen_shots/product_details1.png" width="200">
+  <img src="screen_shots/review.png" width="200">
+</p>
+<br>
+<p float="left">
+  <img src="screen_shots/cart.png" width="200">
+  <img src="screen_shots/cart2.png" width="200">
+  <img src="screen_shots/cart3.png" width="200">
+</p>
+<br>
+<p float="left">
+  <img src="screen_shots/order1.png" width="200">
+  <img src="screen_shots/order2.png" width="200">
 </p>
 
 ### 3. Online Booking & Subject Notes
@@ -90,6 +103,10 @@ A specialized Wheel of Fortune module communicating with the backend to sync liv
 Live technical support and user communication streams featuring optimized UI list bubbling mimicking native messenger apps.
 <br>
 _(Real-time chat supports instant updates mapped to socket protocols)_
+
+<p float="left">
+  <img src="screen_shots/chat.png" width="250">
+</p>
 
 ### 6. Address & Google Maps Integration
 
