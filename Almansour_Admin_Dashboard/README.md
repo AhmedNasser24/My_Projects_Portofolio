@@ -2,6 +2,8 @@
 
 **A Premium Flutter Web Dashboard for Educational and Stationery Management.**
 
+🔗 **Live Demo:** [Click here to open the web application](https://almansour-admin.vercel.app/#/login)
+
 This dashboard is built for the **Al Mansour** platform, providing a high-performance, professional interface for managing educational content (courses, lessons, teachers) and stationery products with complex variants and stock management.
 
 ---
@@ -51,6 +53,7 @@ Below you will find visual demonstrations of the core features.
 
 | Feature                   | View 1                                              | View 2                                              |
 | :------------------------ | :-------------------------------------------------- | :-------------------------------------------------- |
+| **Home & Notifications**  | <img src="screen_shots/home.png" width="400"/>      | <img src="screen_shots/notification.png" width="400"/> |
 | **Sliders Management**    | <img src="screen_shots/slider1.png" width="400"/>   | <img src="screen_shots/slider2.png" width="400"/>   |
 | **Categories Management** | <img src="screen_shots/category1.png" width="400"/> | <img src="screen_shots/category2.png" width="400"/> |
 
@@ -60,6 +63,7 @@ Below you will find visual demonstrations of the core features.
 
 | Feature                       | View 1                                             | View 2                                             |
 | :---------------------------- | :------------------------------------------------- | :------------------------------------------------- |
+| **Orders Processing**         | <img src="screen_shots/order1.png" width="400"/>   | <img src="screen_shots/order2.png" width="400"/>   |
 | **Product List & Table**      | <img src="screen_shots/product1.png" width="400"/> | <img src="screen_shots/product2.png" width="400"/> |
 | **Complex Variant Generator** | <img src="screen_shots/product3.png" width="400"/> | <img src="screen_shots/product4.png" width="400"/> |
 
@@ -74,6 +78,14 @@ Below you will find visual demonstrations of the core features.
 | **Teacher Management**  | <img src="screen_shots/teacher1.png" width="400"/> | <img src="screen_shots/teacher2.png" width="400"/> |
 | **Notes & Materials**   | <img src="screen_shots/notes1.png" width="400"/>   | <img src="screen_shots/notes2.png" width="400"/>   |
 | **Subjects & Students** | <img src="screen_shots/subjects.png" width="400"/> | <img src="screen_shots/students.png" width="400"/> |
+
+---
+
+### 💬 Communication & Support
+
+| Feature                 | View 1                                            | View 2                                            |
+| :---------------------- | :------------------------------------------------ | :------------------------------------------------ |
+| **Chat & Contact Us**   | <img src="screen_shots/chat.png" width="400"/>    | <img src="screen_shots/contact.png" width="400"/> |
 
 ---
 
